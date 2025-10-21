@@ -1,0 +1,66 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #f7f9fb;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #111827;
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+nav a {
+  color: #a5b4fc;
+  margin-left: 1rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #e5e7eb;
+  color: #444;
+  margin-top: 3rem;
+}
+
+article {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+article h4 {
+  margin-top: 0;
+}
+
+.post h2 {
+  color: #1e40af;
+}
+
+.meta {
+  color: #666;
+  font-size: 0.9rem;
+}
