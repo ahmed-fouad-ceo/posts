@@ -5,9 +5,24 @@ title: "Ahmed Fouad — Blog"
 
 # 👋 Welcome to My Blog
 
-Here I share insights on cloud automation, CI/CD, and engineering leadership.
+I’m **Ahmed Fouad**, a cloud and DevOps architect.  
+Here I share real-world guides on **CI/CD**, **Azure**, **GitHub Actions**, and modern engineering leadership.
 
-You can also find me here:
+---
+
+## 📬 Connect With Me
+
 - [LinkedIn](https://www.linkedin.com/in/ahmed-fouad-270200/)
 - [Upwork](https://www.upwork.com/freelancers/ahmedadminsolutions)
 - [GitHub](https://github.com/ahmed-fouad-ceo)
+
+---
+
+## 📝 Latest Posts
+
+Below are my recent technical posts:
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url | relative_url }})  
+  <small>{{ post.date | date: "%B %d, %Y" }}</small>
+{% endfor %}
