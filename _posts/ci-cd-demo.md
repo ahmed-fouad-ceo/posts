@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Welcome to My CI/CD Journey"
+title: "CI/CD Pipeline Demo with Azure & GitHub"
 date: 2025-10-20
-description: "How I built my first automated CI/CD pipeline using GitHub and Azure."
-tags: [DevOps, CI/CD, Azure, GitHub]
+categories: [CI/CD, Azure, GitHub]
 ---
 
 🚀 **Welcome to my first GitHub Pages post!**
