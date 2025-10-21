@@ -1,6 +1,8 @@
-title: "Ahmed Fouad — CI/CD Blog"
-description: "Documenting my DevOps learning and projects"
+title: "Ahmed Fouad — Tech & CI/CD Blog"
+description: "Cloud, CI/CD, and DevOps insights by Ahmed Fouad"
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+author:
+  name: Ahmed Fouad
+  email: your@email.com
+  linkedin: https://www.linkedin.com/in/ahmed-fouad-270200/
+  upwork: https://www.upwork.com/freelancers/ahmedadminsolutions
