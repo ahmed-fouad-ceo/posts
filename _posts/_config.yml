@@ -1,0 +1,6 @@
+title: "Ahmed Fouad — CI/CD Blog"
+description: "Documenting my DevOps learning and projects"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
