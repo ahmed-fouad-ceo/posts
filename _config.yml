@@ -1,5 +1,7 @@
-title: "Ahmed Fouad — DevOps Lab"
-description: "Learning CI/CD, GitHub Actions, and cloud automation."
+title: "Ahmed Fouad — Tech & CI/CD Blog"
+description: "Cloud, CI/CD, and DevOps insights by Ahmed Fouad"
 theme: minima
-author: Ahmed Fouad
-show_excerpts: true
+author:
+  name: Ahmed Fouad
+  linkedin: https://www.linkedin.com/in/ahmed-fouad-270200/
+  upwork: https://www.upwork.com/freelancers/ahmedadminsolutions
